@@ -21,6 +21,19 @@ header {
     left: 20%;
 }
 
+.titless{
+  background-color: #FF7800;
+}
+
+tr:hover{
+
+  color: #FF7800;
+  background-color: black;
+  
+  
+
+}
+
 /*
 ! tailwindcss v3.0.18 | MIT License | https://tailwindcss.com
 */
