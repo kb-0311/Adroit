@@ -1,3 +1,0 @@
-$("#esgg").click(()=>{
-    alert("working");
-});

@@ -1,4 +1,12 @@
 @charset "utf-8";
+
+html{
+  scroll-behavior: smooth;
+ 
+  scroll-padding-top: 90px;
+}
+
+
 header {
     background-color: black;
 }
