@@ -3,7 +3,7 @@
 html{
   scroll-behavior: smooth;
  
-  scroll-padding-top: 90px;
+  scroll-padding-top: 50px;
 }
 
 
@@ -41,6 +41,8 @@ tr:hover{
   
 
 }
+
+
 
 /*
 ! tailwindcss v3.0.18 | MIT License | https://tailwindcss.com
