@@ -41,7 +41,10 @@ tr:hover{
   
 
 }
-
+.teamMembers {
+  background-image: url('images/teams_page.png');
+  background-size:100%;
+}
 
 
 /*
