@@ -47,6 +47,7 @@ tr:hover{
 }
 .T1{
   background-image: url('images/TOP\ 100\ ESG\ Stocks\ \(1\).png');
+  background-repeat: no-repeat ;
   background-size: contain;
 }
 
